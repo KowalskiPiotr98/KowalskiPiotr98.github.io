@@ -1,1 +1,28 @@
-theme: jekyll-theme-midnight
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            A blog thing
+tagline:          IT (mis)adventures
+url:              https://blog.pkowalski.net
+paginate:         1
+baseurl:          ""
+author:
+  name:           Piotr Kowalski
+  url:            https://blog.pkowalski.net
+  email:          github@pkowalski.net
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/KowalskiPiotr98/KowalskiPiotr98.github.io
+
+nav:
+  - title: Archive
+    url: /archive
+  - title: About
+    url: /about
