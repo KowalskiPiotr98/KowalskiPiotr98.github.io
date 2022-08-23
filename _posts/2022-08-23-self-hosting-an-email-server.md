@@ -245,7 +245,7 @@ Self-hosting email is generally a bad idea, for many reasons, and whatever your 
 When something breaks, you're on your own - and while that might be one of the "fun" things about self-hosting, it's probably not the best for critical services like emails.
 There are also risks you can't do anything about: apart from the domain situation, apparently some companies do the same with IPs:
     if there's a single IP in a cidr that's doing bad things (scanning the Internet, brute-forcing passwords, sending spam), they'll just treat the entire cidr as spammy and will block your emails.
-Now, I think haven't had that happen, but you might, and you might not even know that it's happening, as you don't get notified your mail was filed as spam somewhere else.
+Now, I think I haven't had that happen, but you might, and you might not even know that it's happening, as you don't get notified your mail was filed as spam somewhere else.
 
 The learning curve is also very steep: for the first couple of months I've only used this server to receive non-critical emails - only after I've seen it working for some time have I switched to receiving more important ones.
 But if you get things wrong, you might be losing emails, or emails sent by you might be getting lost, and you might not even know about this, as that's not so easy to test.
