@@ -9,7 +9,7 @@ permalink:        pretty
 title:            A blog thing
 tagline:          IT (mis)adventures
 url:              https://blog.pkowalski.net
-paginate:         1
+paginate:         10
 baseurl:          ""
 author:
   name:           Piotr Kowalski
