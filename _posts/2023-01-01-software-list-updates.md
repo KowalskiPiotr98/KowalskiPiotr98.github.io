@@ -53,7 +53,7 @@ It also probably tries to steal all my personal data, but what doesn't at this p
 You might've noticed that when writing about Chrome I've mentioned Bitwarden.
 As it so happens, I'm no longer using this password manager.
 
-Before you run screaming to your Bitwarden vault to move all your password: IT'S TOTALLY SAFE.
+Before you run screaming to your Bitwarden vault to move all your password: IT'S TOTALLY SAFE (EDIT: well, [somewhat](https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/) safe, at least).
 This move was not done due to security concerns, and I'd still recommend Bitwarden to anyone trying to get a good free (or at least cheap) password manager.
 It's not [LastPass](https://palant.info/2022/12/23/lastpass-has-been-breached-what-now/), after all.
 
