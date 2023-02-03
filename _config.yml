@@ -22,6 +22,8 @@ github:
   repo:           https://github.com/KowalskiPiotr98/KowalskiPiotr98.github.io
 
 nav:
+  - title: Discuss
+    url: https://github.com/KowalskiPiotr98/KowalskiPiotr98.github.io/discussions
   - title: Software
     url: /software
   - title: Archive
