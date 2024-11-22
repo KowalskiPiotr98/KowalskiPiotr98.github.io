@@ -47,6 +47,9 @@ If you want to read more about the list itself, see [this blog post](/2024/10/02
 
     Back to Japan we go... this action RPG has a great story (it's from the people who made Legend of Heroes), but also an enjoyable fighting system. Other Ys games are also good, but since they don't share plot, and this game is definitely my favourite in the series, I've decided to put only this one here. At least that was the plan until I've played Ys X: Nordics, which was so good I couldn't resist making at least a note about it here.
 
+- The Sekimeiya: Spun Glass
+
+    This is as unusual one, as it's an OELVN (Original English Language Visual Novel). Not many of those exist, comparatively speaking, but the plot, mechanics, and mystery of this one is above many other titles. Can devinitely recommend it to everyone how likes murder mysteries.
 
 The above was the list of my absolutely favourite games. What follows is a list of still good games, which for one reason or another didn't end up there.
 
