@@ -51,6 +51,11 @@ If you want to read more about the list itself, see [this blog post](/2024/10/02
 
     This is as unusual one, as it's an OELVN (Original English Language Visual Novel). Not many of those exist, comparatively speaking, but the plot, mechanics, and mystery of this one is above many other titles. Can devinitely recommend it to everyone how likes murder mysteries.
 
+- Clair Obscur: Expedition 33
+
+    This game blew me away so hard I'm still looking for some of my pieces. The soundtrack is brilliant, the story will hit you in places you didn't know you have, the graphics are stunning, the characters one of the best ever. My only complaint is that the parry/dodge system starts to feel really bad close to the end of the game (imagine going through 20 minutes of a fight, just for the boss to attack you with a new thing you don't know how to dogde and you die), but you can help yourself with difficulty level settings or mods. Plus it would CTD on me every couple of hours, but that might've been fixed already as you're reading this.
+
+
 The above was the list of my absolutely favourite games. What follows is a list of still good games, which for one reason or another didn't end up there.
 
 - Higurashi
